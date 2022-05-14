@@ -102,7 +102,7 @@ Khronos SPIR-V Registry](https://www.khronos.org/registry/spir-v/).
 1. [SPV_KHR_bit_instructions                ]( http://htmlpreview.github.io/?https://github.com/KhronosGroup/SPIRV-Registry/blob/main/extensions/KHR/SPV_KHR_bit_instructions.html)
 1. [SPV_NV_ray_tracing_motion_blur          ]( http://htmlpreview.github.io/?https://github.com/KhronosGroup/SPIRV-Registry/blob/main/extensions/NV/SPV_NV_ray_tracing_motion_blur.html)
 1. [SPV_KHR_uniform_group_instructions      ]( http://htmlpreview.github.io/?https://github.com/KhronosGroup/SPIRV-Registry/blob/main/extensions/KHR/SPV_KHR_uniform_group_instructions.html)
-1. [SPV_POCL_device_side_abort              ]( http://htmlpreview.github.io/?https://github.com/KhronosGroup/SPIRV-Registry/blob/main/extensions/KHR/SPV_POCL_device_side_abort.html)
+1. [SPV_EXT_device_side_abort              ]( http://htmlpreview.github.io/?https://github.com/KhronosGroup/SPIRV-Registry/blob/main/extensions/KHR/SPV_EXT_device_side_abort.html)
 
 ## Non-Semantic Extended Instruction Set Specifications
 
